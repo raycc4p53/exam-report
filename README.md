@@ -24,6 +24,7 @@
 1. 點上方的 **Open in Colab** 按鈕。
 2. 先用範例資料試跑：選單 **執行階段 → 全部執行**（Runtime → Run all）。
 3. 執行完成後，在左側「檔案」區的 `out_charts` 資料夾下載報告。
+   - 想一次存到自己的 Google Drive：把程式最後兩格（第 20、21 步）每一行開頭的 `#` 刪掉，再依序執行。
 4. 換成自己的成績：
    1. 下載 [`template.xlsx`](template.xlsx)（空白範本），或參考 [`demo.xlsx`](demo.xlsx)（範例資料），填入全班成績。
    2. 把 Excel 檔上傳到 Colab 左側的「檔案」區。
